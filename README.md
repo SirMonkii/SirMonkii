@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/lucas-rodriguez-sinni-671532239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/id/nosa_jureg/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
                                                          
-![Snake animation](https://github.com/SirMonkii/SirMonkii/tree/main/.github/workflows)
 
   </div>
+
+![Snake animation](https://github.com/SirMonkii/SirMonkii/tree/main/.github/workflows)
