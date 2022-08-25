@@ -29,4 +29,4 @@
 
   </div>
 
-![Snake animation](https://github.com/SirMonkii/SirMonkii/tree/main/.github/workflows)
+![Snake animation](https://github.com/SirMonkii/SirMonkii/blob/output/github-contribution-grid-snake.svg)
