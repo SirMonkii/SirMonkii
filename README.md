@@ -1,10 +1,12 @@
-🐱‍🏍 Hi, I'm Lucas
+Hi, I'm Lucas
 
-🐱‍🚀 I don't know wtf i am doing with my life
+I'm starting my studies in the IT area, looking forward to enter in the cyber security path
 
-🐉 I'm looking to create an good git profile so i can be hired more easily
+I'm always trying to do programming challenges on my own, always testing my skills and constantly learning
 
-🐱‍💻 If you want talk to me (please don't): Discord Sir. Monkii#8131
+If you want talk to me, i always respond more quicker in Discord, my username is: Sir. Monkii#8131
+
+がんばりましょう!!!
 
 <div align="center">
   <a href="https://github.com/SirMonkii">
