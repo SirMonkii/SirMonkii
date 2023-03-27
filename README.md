@@ -4,7 +4,7 @@ I'm starting my studies in the IT area, looking forward to enter in the cyber se
 
 I'm always trying to do programming challenges on my own, always testing my skills and constantly learning
 
-If you want talk to me, i always respond more quicker in Discord, my username is: Sir. Monkii#8131
+If you want talk to me, I always respond more quicker in Discord, my username is: Sir. Monkii#8131
 
 がんばりましょう!!!
 
