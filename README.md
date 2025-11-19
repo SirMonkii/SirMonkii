@@ -10,8 +10,8 @@ If you want talk to me, I always respond more quicker in Discord, my username is
 
 <div align="center">
   <a href="https://github.com/SirMonkii">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=SirMonkii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirMonkii&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SirMonkii&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirMonkii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div align="center">
